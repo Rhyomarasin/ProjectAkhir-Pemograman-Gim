@@ -1,0 +1,8 @@
+﻿  Demo.cpp
+D:\Akademik\Semester 8\Pemrograman Gim\Final Project\TemplateProject\vs\Project\Demo.h(52,24): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  Sound.cpp
+  Generating Code...
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'D:\Akademik\Semester 8\Pemrograman Gim\Final Project\TemplateProject\vs\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'D:\Akademik\Semester 8\Pemrograman Gim\Final Project\TemplateProject\vs\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'D:\Akademik\Semester 8\Pemrograman Gim\Final Project\TemplateProject\vs\Debug\vc110.pdb'; linking object as if no debug info
+  Project.vcxproj -> D:\Akademik\Semester 8\Pemrograman Gim\Final Project\TemplateProject\vs\Debug\Project.exe
